@@ -40,14 +40,18 @@ Visamos uma melhor acessibilidade para os alunos do nosso portal acadêmico para
 Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
 
 # Autores
+<div> 
+	<table> 
+		<td align="center"><a href="https://github.com/BrenoMattos"><img src="https://avatars.githubusercontent.com/u/90527982?v=4" width="100px;" alt=""/><br /><sub><b>Breno Mattos <br/> :alien:</b></sub></a></td>
+		<td align="center"><a href="https://github.com/cdamarinho"><img src="https://avatars.githubusercontent.com/u/92127043?v=4" width="100px;" alt=""/><br /><sub><b>Caio Marinho <br/> :dolphin:</b></sub></a></td>
+		<td align="center"><a href="https://github.com/GabrielaplDev"><img src="https://avatars.githubusercontent.com/u/90151540?v=4" width="100px;" alt=""/><br /><sub><b>Gabriel Augusto <br/> :smiling_imp: </b></sub></a></td>
+		<td align="center"><a href="https://github.com/Excannor"><img src="https://avatars.githubusercontent.com/u/82294214?v=4" width="100px;" alt=""/><br /><sub><b>Marcos Estevão <br/> :lock: </b></sub></a></td>
+		<td align="center"><a href="https://github.com/ramon-n"><img src="https://avatars.githubusercontent.com/u/88009771?v=4" width="100px;" alt=""/><br /><sub><b>Ramon Pereira <br/> :rocket: </b></sub></a></td>
+		<td align="center"><a href="https://github.com/formagini1"><img src="https://avatars.githubusercontent.com/u/90337265?v=4" width="100px;" alt=""/><br /><sub><b>Ryan Augusto <br/> :crown: </b></sub></a></td>
+		<td align="center"><a href="https://github.com/ttcalazans"><img src="https://avatars.githubusercontent.com/u/90580933?v=4" width="100px;" alt=""/><br /><sub><b>Thiago Calazans <br/> :computer: </b></sub></a></td>
+	</table>	
+</div>
 
-[Breno Mattos](https://github.com/BrenoMattos) :alien: <br/>
-[Caio Marinho]() :dolphin: <br/>
-[Gabriel Augusto](https://github.com/GabrielaplDev) :smiling_imp: <br/>
-[Marcos Estevão](https://github.com/Excannor) :lock: <br/>
-[Ramon Pereira](https://github.com/ramon-n) :rocket: <br/>
-[Ryan Augusto](https://github.com/formagini1) :crown: <br/>
-[Thiago Calazans](https://github.com/ttcalazans) :computer: 
 # Licença
 
 Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
