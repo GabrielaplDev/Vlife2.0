@@ -32,8 +32,9 @@ Visamos uma melhor acessibilidade para os alunos do nosso portal acadêmico para
 
 # Tecnologias Usadas
 
-- [Paint 3D](https://www.microsoft.com/pt-br/p/paint-3d/9nblggh5fv99?SilentAuth=1&wa=wsignin1.0&activetab=pivot:overviewtab)
-- [Padlet](https://padlet.com/gabrielapl2/3xiizyqtkrvek9y2)
+- [Astah UML](https://astah.net/)
+- [MySQL](https://www.mysql.com/)
+- [ERDPlus](https://erdplus.com/)
 
 # Contribuição
 
