@@ -1,13 +1,13 @@
 # Vlife2.0
 
-![Capa do Projeto](https://computerworld.com.br/wp-content/uploads/2020/12/9-conte%C3%BAdos-para-quem-quer-se-familiarizar-com-a-%C3%A1rea-de-programa%C3%A7%C3%A3o-e-desenvolvimento.jpg)
+![Capa do Projeto](https://cdn.discordapp.com/attachments/817767802236698676/913226147905536070/Design_sem_nome.png)
 
 # Sobre o Projeto
 
 Visamos uma melhor acessibilidade para os alunos do nosso portal acadêmico para facilitar a nossa vida. Aspiramos um ambiente limpo e transparente para o usuário, de forma que o mesmo consiga utilizar e extrair a informação da qual precisa, de forma ágil e eficiente.
 
 <h4 align="center"> 
-	🚧  Em desenvolvimento . . .
+	
 </h4>
 
 # Índice/Sumário
